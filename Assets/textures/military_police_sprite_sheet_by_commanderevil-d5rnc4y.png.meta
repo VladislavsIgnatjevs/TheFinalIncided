@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 2ac08e7e7d52545d2aa48c422eff3905
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: military_police_sprite_sheet_by_commanderevil-d5rnc4y_0
+    21300002: military_police_sprite_sheet_by_commanderevil-d5rnc4y_1
+    21300004: military_police_sprite_sheet_by_commanderevil-d5rnc4y_2
+    21300006: military_police_sprite_sheet_by_commanderevil-d5rnc4y_3
+    21300008: military_police_sprite_sheet_by_commanderevil-d5rnc4y_4
+    21300010: military_police_sprite_sheet_by_commanderevil-d5rnc4y_5
+    21300012: military_police_sprite_sheet_by_commanderevil-d5rnc4y_6
+    21300014: military_police_sprite_sheet_by_commanderevil-d5rnc4y_7
+    21300016: military_police_sprite_sheet_by_commanderevil-d5rnc4y_8
+    21300018: military_police_sprite_sheet_by_commanderevil-d5rnc4y_9
+    21300020: military_police_sprite_sheet_by_commanderevil-d5rnc4y_10
+    21300022: military_police_sprite_sheet_by_commanderevil-d5rnc4y_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: military_police_sprite_sheet_by_commanderevil-d5rnc4y_0
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 311
+        width: 63
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: military_police_sprite_sheet_by_commanderevil-d5rnc4y_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 199
+        width: 199
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: military_police_sprite_sheet_by_commanderevil-d5rnc4y_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 199
+        width: 189
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: military_police_sprite_sheet_by_commanderevil-d5rnc4y_3
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 125
+        width: 176
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: military_police_sprite_sheet_by_commanderevil-d5rnc4y_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 126
+        width: 144
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: military_police_sprite_sheet_by_commanderevil-d5rnc4y_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 128
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: military_police_sprite_sheet_by_commanderevil-d5rnc4y_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 60
+        width: 256
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: military_police_sprite_sheet_by_commanderevil-d5rnc4y_7
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 64
+        width: 123
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: military_police_sprite_sheet_by_commanderevil-d5rnc4y_8
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 64
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: military_police_sprite_sheet_by_commanderevil-d5rnc4y_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6
+        width: 115
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: military_police_sprite_sheet_by_commanderevil-d5rnc4y_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 328
+        width: 109
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: military_police_sprite_sheet_by_commanderevil-d5rnc4y_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 264
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

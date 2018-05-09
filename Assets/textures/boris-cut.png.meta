@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: c29c22edf60fe4fdd9eadae779fd9dd7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: boris-cut_0
+    21300002: boris-cut_1
+    21300004: boris-cut_2
+    21300006: boris-cut_3
+    21300008: boris-cut_4
+    21300010: boris-cut_5
+    21300012: boris-cut_6
+    21300014: boris-cut_7
+    21300016: boris-MASS
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: boris-cut_0
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 527
+        width: 351
+        height: 458
+      alignment: 9
+      pivot: {x: .178821012, y: .738903999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boris-cut_1
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 461
+        width: 461
+        height: 815
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boris-cut_2
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1011
+        width: 395
+        height: 222
+      alignment: 9
+      pivot: {x: .139050528, y: .544806957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boris-cut_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 752
+        width: 419
+        height: 233
+      alignment: 9
+      pivot: {x: .864014328, y: .599613547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boris-cut_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 43
+        width: 405
+        height: 653
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boris-cut_5
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 50
+        width: 219
+        height: 378
+      alignment: 9
+      pivot: {x: .590840936, y: .80700928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boris-cut_6
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 53
+        width: 199
+        height: 398
+      alignment: 9
+      pivot: {x: .366705358, y: .741595984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boris-cut_7
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 53
+        width: 325
+        height: 411
+      alignment: 9
+      pivot: {x: .877479315, y: .774291337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boris-MASS
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1043
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/code/PlayerHealth.js">
+    <Files>
+      <File FileName="Assets/code/PlayerHealth.js" Line="134" Column="65" />
+      <File FileName="Assets/code/TerrainSpawner.cs" Line="64" Column="31" />
+      <File FileName="Assets/code/Bullet.js" Line="9" Column="28" />
+      <File FileName="Assets/code/playerMove.js" Line="156" Column="1" />
+      <File FileName="Assets/Standard Assets/SingletonAudio.cs" Line="26" Column="31" />
+      <File FileName="Assets/code/CameraFollow.js" Line="24" Column="1" />
+      <File FileName="Assets/code/EnemyTank.js" Line="158" Column="41" />
+      <File FileName="Assets/code/EnemyBulbman.js" Line="155" Column="37" />
+      <File FileName="Assets/code/Score.js" Line="26" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
